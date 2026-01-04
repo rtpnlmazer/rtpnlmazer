@@ -21,9 +21,6 @@
       <a href="https://instagram.com/rtpnlmazer">
         <img src="https://skillicons.dev/icons?i=instagram" />
       </a>
-      <a href="mailto:rezamaulanaptr19@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" />
-      </a>
     </td>
     <td width="35%" align="center">
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding GIF" />
