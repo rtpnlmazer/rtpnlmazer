@@ -12,7 +12,6 @@
       <img src="https://komarev.com/ghpvc/?username=rtpnlmazer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
       <br/>
       <br/>
-      <b>🛠️ Tech Stack:</b>
       <br/>
       <br/>
       <a href="https://skillicons.dev">
