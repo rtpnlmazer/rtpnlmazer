@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>👋 Hi there, I Am Reza Maulana!</h3>
+      <h3>👋 Hi there, I'm Reza Maulana!</h3>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Laravel+%26+Flutter+Enthusiast;Let's+Collab!&font=Fira+Code&center=false&width=400&height=40&color=00d9ff&vCenter=true&size=20" alt="Typing SVG" />
       </a>
