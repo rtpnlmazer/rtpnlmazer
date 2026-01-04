@@ -15,6 +15,18 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,python,dart,javascript,bootstrap,flutter&theme=dark" />
       </a>
+      <br/>
+      <br/>
+      <font size="2"><b>Connect with me:</b></font><br/>
+      <a href="https://linkedin.com/in/USERNAME-LINKEDIN-KAMU">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+      </a>
+      <a href="https://instagram.com/USERNAME-IG-KAMU">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+      </a>
+      <a href="mailto:EMAIL-KAMU@GMAIL.COM">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+      </a>
     </td>
     <td width="35%" align="center">
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding GIF" />
@@ -28,6 +40,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rtpnlmazer&theme=tokyonight&no-frame=true&column=7&margin-w=10&row=1" alt="trophy" width="100%" />
 </a>
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpnlmazer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<br/>
 <br/>
 
 <table>
