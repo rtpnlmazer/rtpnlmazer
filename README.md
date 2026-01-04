@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Halo,+Selamat+Datang!;Saya+Reza+Maulana;Saya+Suka+Coding;Mari+Berkolaborasi!&font=Fira%20Code&center=true&width=440&height=45&color=38bdae&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
+<br>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rtpnlmazer&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpnlmazer&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</p>
+
 </div>
 
 ---
