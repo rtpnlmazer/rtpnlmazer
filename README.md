@@ -17,10 +17,6 @@
       </a>
       <br/>
       <br/>
-      <font size="2"><b>Connect with me:</b></font><br/>
-      <a href="https://instagram.com/rtpnlmazer">
-        <img src="https://skillicons.dev/icons?i=instagram" />
-      </a>
     </td>
     <td width="35%" align="center">
       <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding GIF" />
