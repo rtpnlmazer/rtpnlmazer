@@ -31,22 +31,16 @@
 </a>
 
 <div align="center">
-<br/>
-<br/>
-<br/>
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rtpnlmazer&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  
+  <br/>
+  <br/>
 
-<table width="100%">
-  <tr>
-        <td align="center" valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rtpnlmazer&theme=tokyo-night&hide_border=true&area=true" width="600" />
-    </td>
-        <td align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg">
-        <img alt="snake animation" src="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg" width="600">
-      </picture>
-    </td>
-  </tr>
-</table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg" width="100%">
+  </picture>
 
 </div>
