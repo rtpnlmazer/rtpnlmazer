@@ -1,3 +1,5 @@
+<div align="center">
+
 <table>
   <tr>
     <td width="65%" valign="top">
@@ -22,3 +24,30 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<h3>🏆 Pencapaian</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=rtpnlmazer&theme=tokyonight&no-frame=true&column=7&margin-w=10&row=1" alt="trophy" width="100%" />
+</a>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📉 Grafik Aktivitas</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rtpnlmazer&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐍 Ular Cyberpunk</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg">
+        <img alt="snake animation" src="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+</div>
