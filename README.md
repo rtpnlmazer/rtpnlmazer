@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding GIF" />
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=rtpnlmazer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <br/>
@@ -26,6 +30,14 @@
 <h3>🏆 Pencapaian GitHub</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=rtpnlmazer&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="trophy" />
+</a>
+
+<br/>
+<br/>
+
+<h3>🧊 Aktivitas 3D</h3>
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=rtpnlmazer&theme=tokyonight" alt="3D Contribution Graph">
 </a>
 
 <br/>
