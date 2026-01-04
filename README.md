@@ -1,6 +1,6 @@
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
     <td width="65%" valign="top">
       <h3>👋 Hi there, I'm Reza Maulana!</h3>
