@@ -34,18 +34,19 @@
   <br/>
   <br/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rtpnlmazer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpnlmazer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <a href="https://github.com/rtpnlmazer">
+    <img src="https://github-readme-stats.vercel.app/api?username=rtpnlmazer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&t=1" height="160" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpnlmazer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&t=1" height="160" alt="langs" />
   </a>
-  
+
   <br/>
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=rtpnlmazer&theme=tokyonight&hide_border=true" alt="rtpnlmazer's Streak" />
+  <a href="https://github.com/rtpnlmazer">
+    <img src="https://streak-stats.demolab.com/?user=rtpnlmazer&theme=tokyonight&hide_border=true&t=1" alt="streak" />
+  </a>
 </div>
 <br/>
-
 <div align="center">
   <br/>
   
