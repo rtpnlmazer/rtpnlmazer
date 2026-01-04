@@ -18,13 +18,10 @@
       <br/>
       <br/>
       <font size="2"><b>Connect with me:</b></font><br/>
-      <a href="https://linkedin.com/in/USERNAME-LINKEDIN-KAMU">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-      </a>
-      <a href="https://instagram.com/USERNAME-IG-KAMU">
+      <a href="https://instagram.com/rtpnlmazer">
         <img src="https://skillicons.dev/icons?i=instagram" />
       </a>
-      <a href="mailto:EMAIL-KAMU@GMAIL.COM">
+      <a href="mailto:rezamaulanaptr19@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" />
       </a>
     </td>
