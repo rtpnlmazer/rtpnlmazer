@@ -35,10 +35,8 @@
 <br/>
 <br/>
 
-<h3>🧊 Aktivitas 3D</h3>
-<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=rtpnlmazer&theme=tokyonight" alt="3D Contribution Graph">
-</a>
+<h3>📉 Grafik Aktivitas</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rtpnlmazer&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 <br/>
 <br/>
