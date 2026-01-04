@@ -30,22 +30,23 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rtpnlmazer&theme=tokyonight&no-frame=true&column=7&margin-w=10&row=1" alt="trophy" width="100%" />
 </a>
 
+<div align="center">
 <br/>
 <br/>
 <br/>
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rtpnlmazer&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg">
-        <img alt="snake animation" src="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg" width="100%">
-      </picture>
-    </td>
-  </tr>
+  <tr>
+        <td align="center" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rtpnlmazer&theme=tokyo-night&hide_border=true&area=true" width="600" />
+    </td>
+        <td align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg">
+        <img alt="snake animation" src="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg" width="600">
+      </picture>
+    </td>
+  </tr>
 </table>
 
 </div>
