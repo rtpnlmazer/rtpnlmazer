@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Halo,+Selamat+Datang!;Saya+Reza+Maulana;Saya+Suka+Coding+Dan+Belajar+Teknologi;Mari+Berkolaborasi!&font=Fira%20Code&center=true&width=440&height=45&color=38bdae&vCenter=true&size=22" alt="Typing SVG" />
 </a>
-Halo
 
 </div>
 
