@@ -34,19 +34,25 @@
   <br/>
   <br/>
 
-  <a href="https://github.com/rtpnlmazer">
-    <img src="https://github-readme-stats.vercel.app/api?username=rtpnlmazer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&t=1" height="160" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpnlmazer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&t=1" height="160" alt="langs" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <h3>📫 Connect with Me</h3>
+  
+  <a href="mailto:rezamaulanaptr19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  </a>
+  
+  <a href="https://instagram.com/rtpnlmazer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
 
-  <br/>
-  <br/>
-
   <a href="https://github.com/rtpnlmazer">
-    <img src="https://streak-stats.demolab.com/?user=rtpnlmazer&theme=tokyonight&hide_border=true&t=1" alt="streak" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" />
   </a>
+
 </div>
 <br/>
+
 <div align="center">
   <br/>
   
