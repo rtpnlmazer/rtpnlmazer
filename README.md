@@ -16,7 +16,7 @@
       <br/>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,python,dart&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,python,dart,javascript&theme=dark" />
       </a>
     </td>
     <td width="35%" align="center">
