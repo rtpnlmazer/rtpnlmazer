@@ -30,6 +30,23 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rtpnlmazer&theme=tokyonight&no-frame=true&column=7&margin-w=10&row=1" alt="trophy" width="100%" />
 </a>
 
+<br/>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rtpnlmazer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpnlmazer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rtpnlmazer&theme=tokyonight&hide_border=true" alt="rtpnlmazer's Streak" />
+</div>
+
+<br/>
+
 <div align="center">
   <br/>
   
