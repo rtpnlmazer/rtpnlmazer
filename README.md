@@ -3,9 +3,9 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>👋 Halo, Saya Reza Maulana!</h3>
+      <h3>👋 Hi there, I Am Reza Maulana!</h3>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Laravel+%26+Flutter+Enthusiast;Mari+Berkolaborasi!&font=Fira+Code&center=false&width=400&height=40&color=00d9ff&vCenter=true&size=20" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Laravel+%26+Flutter+Enthusiast;Let's+Collab!&font=Fira+Code&center=false&width=400&height=40&color=00d9ff&vCenter=true&size=20" alt="Typing SVG" />
       </a>
       <br/>
       <br/>
@@ -13,7 +13,7 @@
       <br/>
       <br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,python,dart,javascript,bootstrap&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,python,dart,javascript,bootstrap,flutter&theme=dark" />
       </a>
     </td>
     <td width="35%" align="center">
