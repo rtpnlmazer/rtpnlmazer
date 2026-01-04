@@ -12,8 +12,6 @@
       <img src="https://komarev.com/ghpvc/?username=rtpnlmazer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
       <br/>
       <br/>
-      <br/>
-      <br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,python,dart,javascript,bootstrap&theme=dark" />
       </a>
