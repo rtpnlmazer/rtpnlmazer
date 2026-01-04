@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=rtpnlmazer&theme=tokyo-night&hide_border=true&area=true" width="100%" />
