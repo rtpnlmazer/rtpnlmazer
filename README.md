@@ -39,21 +39,6 @@
 
 <div align="center">
   <br/>
-  <br/>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-  <h3>📫 Connect with Me</h3>
-  
-  <a href="mailto:rezamaulanaptr19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
-  <a href="https://instagram.com/rtpnlmazer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" /></a>
-  <a href="https://github.com/rtpnlmazer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
-
-</div>
-<br/>
-
-<div align="center">
-  <br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rtpnlmazer&theme=tokyo-night&hide_border=true&area=true" width="100%" />
   
@@ -66,3 +51,18 @@
   </picture>
 
 </div>
+
+<div align="center">
+  <br/>
+  <br/>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <h3>📫 Connect with Me</h3>
+  
+  <a href="mailto:rezamaulanaptr19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
+  <a href="https://instagram.com/rtpnlmazer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" /></a>
+  <a href="https://github.com/rtpnlmazer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
+
+</div>
+<br/>
