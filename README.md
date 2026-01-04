@@ -31,9 +31,6 @@
 </a>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpnlmazer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" />
-
 <br/>
 <br/>
 
