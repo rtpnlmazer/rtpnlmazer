@@ -39,8 +39,8 @@
   <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-ocean.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-ocean.svg" width="100%">
   </picture>
 
 </div>
