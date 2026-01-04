@@ -28,6 +28,18 @@
 
 ---
 
+### 📊 Statistik Aktivitas
+<div align="center">
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rtpnlmazer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpnlmazer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+    </a>
+  </p>
+</div>
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/rtpnlmazer/rtpnlmazer/output/snake-cyberpunk.svg" alt="snake cyberpunk" width="100%" />
 </div>
